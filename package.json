@@ -1,0 +1,14 @@
+{
+  "name": "unbreak",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boennemann/unbreak.git"
+  },
+  "author": "Stephan Bönnemann <stephan@boennemann> (http://boennemann.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boennemann/unbreak/issues"
+  },
+  "homepage": "https://github.com/boennemann/unbreak#readme"
+}
